@@ -39,6 +39,7 @@ test {
      exceptionFormat "full"
      showCauses true
      showStackTraces true
+	 showStandardStreams = true
 
      // Change from false to true
      showStandardStreams = true
